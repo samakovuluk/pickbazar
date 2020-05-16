@@ -1,0 +1,14 @@
+node_modules
+.next
+dist
+build
+/docs
+.now
+# comments out the below item for pick-bazar admin deployment
+packages/shop
+
+# comments out the below item for pick-bazar shop deployment
+packages/admin
+
+# comments out the below item for pick-bazar api deployment
+packages/api

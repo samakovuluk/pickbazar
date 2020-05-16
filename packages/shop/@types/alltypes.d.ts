@@ -1,0 +1,17 @@
+declare module 'rc-collapse';
+declare module '@glidejs/glide';
+declare module 'react-sticky';
+declare module '@styled-system/theme-get';
+declare module '@redq/reuse-modal';
+declare module 'react-select';
+declare module 'react-reveal/Fade';
+declare module 'rc-table';
+declare module 'rc-drawer';
+declare module 'react-custom-scrollbars';
+declare module '*.png';
+declare module '*.jpg';
+declare module '*.svg';
+declare module '*.gif';
+declare module 'next-page-transitions';
+declare module 'react-image';
+declare module 'styled-components';

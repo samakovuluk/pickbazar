@@ -1,0 +1,24 @@
+{
+  "version": 2,
+  "name": "pickbazar-api",
+  "builds": [
+    {
+      "src": "./server.admin.ts",
+      "use": "@now/node-server"
+    },
+    {
+      "src": "./server.shop.ts",
+      "use": "@now/node-server"
+    }
+  ],
+  "routes": [
+    {
+      "src": "/admin/graphql",
+      "dest": "server.admin.ts"
+    },
+    {
+      "src": "/shop/graphql",
+      "dest": "server.shop.ts"
+    }
+  ]
+}

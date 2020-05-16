@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="150" height="150" viewBox="0 0 150 150">
+  <defs>
+    <linearGradient id="linear-gradient" x2="1" y2="0.9" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#4c9cda"/>
+      <stop offset="1" stop-color="#476dc5"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" y2="1" xlink:href="#linear-gradient"/>
+  </defs>
+  <g id="floating_button_close" data-name="floating button close" transform="translate(-1754 -911)">
+    <rect id="Rectangle_1" data-name="Rectangle 1" width="60" height="60" rx="15" transform="translate(1799 956)" opacity="0.35" fill="url(#linear-gradient)"/>
+    <path id="Rectangle_2" data-name="Rectangle 2" d="M15,0H60a0,0,0,0,1,0,0V45A15,15,0,0,1,45,60H15A15,15,0,0,1,0,45V15A15,15,0,0,1,15,0Z" transform="translate(1799 956)" fill="url(#linear-gradient-2)"/>
+    <g id="close_1_" data-name="close (1)" transform="translate(1817 973.999)">
+      <path id="Path_56" data-name="Path 56" d="M14.123,12l9.438-9.438A1.5,1.5,0,0,0,21.439.441L12,9.879,2.562.441A1.5,1.5,0,0,0,.44,2.563L9.878,12,.44,21.439a1.5,1.5,0,1,0,2.122,2.122L12,14.123l9.438,9.438a1.5,1.5,0,1,0,2.122-2.122Z" transform="translate(0 0)" fill="#fff"/>
+    </g>
+  </g>
+</svg>
