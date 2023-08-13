@@ -2,7 +2,7 @@
 
 # Introduction
 
-Fastest E-commerce template built with React, NextJS, TypeScript, GraphQL, Type-GraphQL & Styled-Components. Its very easy to use, we used graphql and type-graphql, you can build your schema very easily. GraphQL playground makes it’s own documentation, your frontend team will love using it.
+Latest and Easy E-commerce template built with React, NextJS, TypeScript, GraphQL, Type-GraphQL & Styled-Components. Its very easy to use, we used graphql and type-graphql, you can build your schema very easily. GraphQL playground makes it’s own documentation, your frontend team will love using it.
 
 # Tech We Have Used
 
@@ -32,12 +32,17 @@ We have used monorepo folder structure with Yarn Workspace. In our template we h
 
 # Getting Started & Installation
 
-For getting started with the template you have to follow the below procedure. First navigate to the `pickbazar` directory. Then run below command for getting started with specific part.
+For getting started with the template you have to follow the below 👇 Steps. First navigate to the `pickbazar` directory. Then run below command for getting started with specific part.
 
 ```
 // on pickbazar directory
 yarn
 ```
+npm i
+```
+npm install
+```
+
 
 <br><br><br>
 
